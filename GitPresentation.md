@@ -1,10 +1,10 @@
 ## Useful Git Links ##
 
-This document is a supplement to a discussion I will be having at Central Connecticut State University in the CS Club, regarding Version Control Systems, namely Git. I do not own the following links, I have just curated a few useful links to share with my fellow students:
+This document was originally a supplement to a presentation Jeremy Beardsley gave at Central Connecticut State University in the CS Club, regarding Version Control Systems, namely Git.  Below are a few useful links to get you started:
 
 - Git the simple guide - setup, configuration, basic use (http://rogerdudler.github.io/git-guide/)
-- [Simple Git for Windows Setup Guide!](https://gist.github.com/dmangiarelli/1a0ae107aaa5c478c51e) This was created by a friend of mine, as a supplement to another presentation I contributed to.
-- [Slide Deck](http://aradhye.com/be-a-git-ninja-deck) The presentation that I assisted in creating with a friend, who presented this at the Boston Code Camp this past year
+- [Simple Git for Windows Setup Guide!](https://gist.github.com/dmangiarelli/1a0ae107aaa5c478c51e) 
+- [Slide Deck](http://aradhye.com/be-a-git-ninja-deck) Presented at the Boston Code Camp 2014
 - Useful [Cheat Sheet](http://www.git-tower.com/blog/git-cheat-sheet/) 
 - [Github for Students](https://education.github.com/) Because you can get a free account with 5 private repositories.
 - [Contributing to Anothers repo] (http://kbroman.org/github_tutorial/pages/fork.html) A simple guide to working with someone elses code on Github
